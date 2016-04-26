@@ -1,0 +1,30 @@
+.menuprincipal {font-family: sans-serif ; 
+				text-transform: uppercase; 
+				color: black; }
+
+.menulista {text-decoration: none}
+
+ 
+.boton {background-color: #00aff2;
+		text-transform: uppercase;
+		text-align: center;
+		color: white;
+		border: none; }
+
+.seccion5 {background-color: #142e3f;
+			color: white; 
+			text-align: center; }
+
+.articlecontact {font-family: sans-serif;
+				text-align: center}
+
+
+.sec7art {background-color: #142e3f;
+			text-align: center; }
+
+.sec7art span { color: #00aff2;
+				font-weight: bold;}
+
+.footer {background-color: #091722;
+		color: white;
+		text-decoration: none;}
